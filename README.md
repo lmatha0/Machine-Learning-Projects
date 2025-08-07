@@ -1,4 +1,4 @@
-This is a repository for various machine learning projects to understand the code behind algorithms. The idea is to gain more familiarity by implementing these algorithms from scratch and without any advanced libraries to gain deeper insight on the code used. 
+This is a repository for various machine learning projects to understand the code behind algorithms. The idea is to gain more familiarity by implementing these algorithms from scratch to develop stronger coding skills and understand the mathematical concepts behind the algorithms used.
 
 Projects:
 
