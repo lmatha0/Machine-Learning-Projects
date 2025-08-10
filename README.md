@@ -15,3 +15,8 @@ diabetes_prediction:
 - A multivariate logistic regression project that predicts the probability of heart disease based on factors including BMI, blood pressure, insulin levels and more
 - Uses panda to load and clean data, numpy to vectorize calculations, and scikitlearn to split data into test and train sets
 - computes accuracy as a percentage after training the model
+
+protein_sequence_data:
+- uses principal component analysis, an unsupervised machine learning algorithm to map the variance of data in protein sequences
+- uses panda to load data, numpy to perform PCA, and matplotlib to plot the variance of the principal components
+- reduces features including amino acid composition, sequence length, and molecular weights of proteins to capture principal components and map out variance of data along their axes
